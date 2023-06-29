@@ -27,7 +27,7 @@
 
 <hr />
 
-### 📊 Some staths (phew)
+### 📊 Some stats (phew)
 
 <div align="center">
   <a href="https://github.com/gu-nogueira">
