@@ -13,6 +13,8 @@
 
 ### 👨‍💻 About me
 
+- 🇧🇷 I'm from Brazil. But there's a lot of places i want to place my feet on 🇺🇸🇨🇦🇯🇵🇫🇷🇦🇷.
+- 🧠 Consistency is power, look where i am, and where i'll be.
 - 🎓 I'm graduated in Systems Analysis and Development at [FATEC](https://www.fatecbt.edu.br/fatec/).
 - 💻 I'm currently as a Full Stack Developer, working with these technologies:
   - Languages: <img align="center" alt="Javascript" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Typescript" height="30" width="35" src="https://devicons.railway.app/i/typescript.svg">
