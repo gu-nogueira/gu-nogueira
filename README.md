@@ -17,14 +17,15 @@
 - 🧠 Consistency is power, look where i am, and where i'll be.
 - 🎓 I'm graduated in Systems Analysis and Development at [FATEC](https://www.fatecbt.edu.br/fatec/).
 - 💻 I'm currently as a Full Stack Developer, working with these technologies:
-  - Languages: <img align="center" alt="Languages (Javascript, Typescript, PHP)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=js,ts,php&theme=dark">
-  - Frontend: <img align="center" alt="Frontend (React, Vite, NextJS, Redux, Tailwind, StyledComponents, Sass, Bootstrap)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=react,vite,nextjs,redux,tailwind,styledcomponents,sass,bootstrap&theme=dark">
-  - Backend: <img align="center" alt="Backend (NodeJS, Express, Fastify, Sequelize, Prisma, Supabase, PostgreSQL, Redis)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=nodejs,express,sequelize,prisma,supabase,postgres,redis&theme=dark">
-  - Others: <img align="center" alt="Others (Jest, Sentry, Linux, Docker, Nginx, AWS)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=jest,sentry,linux,docker,nginx,aws&theme=dark">
-- 📚 I'm also learning or already worked with:
-  - <img align="center" alt="Backend: (Adonis, Microservices, NestJS, Kafka, GraphQL, Vitest, MongoDB, MySQL, Wordpress, GCP)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=adonis,nestjs,kafka,graphql,vitest,mongodb,mysql,wordpress,gcp&theme=dark">
-- 🎨 I'm also a Graphic Designer and Video Editor. With these tools:
-  - <img align="center" alt="Design, UX/UI: (Adobe Photoshop, Adobe Illustrator, Figma)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=ai,ps,ae,pr,figma&theme=dark">
+
+| Category | Skills |
+| --- | --- |
+| Languages | <img align="center" alt="Languages (Javascript, Typescript, PHP)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=js,ts,php&theme=dark"> |
+| Frontend | <img align="center" alt="Frontend (React, Vite, NextJS, Redux, Tailwind, StyledComponents, Sass, Bootstrap)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=react,vite,nextjs,redux,tailwind,styledcomponents,sass,bootstrap&theme=dark"> |
+| Backend | <img align="center" alt="Backend (NodeJS, Express, Fastify, Sequelize, Prisma, Supabase, PostgreSQL, Redis)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=nodejs,express,sequelize,prisma,supabase,postgres,redis&theme=dark"> |
+| Others | <img align="center" alt="Others (Jest, Sentry, Linux, Docker, Nginx, AWS)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=jest,sentry,linux,docker,nginx,aws&theme=dark"> |
+| Worked with | <img align="center" alt="Backend: (Adonis, Microservices, NestJS, Kafka, GraphQL, Vitest, MongoDB, MySQL, Wordpress, GCP)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=adonis,nestjs,kafka,graphql,vitest,mongodb,mysql,wordpress,gcp&theme=dark"> |
+| Design, UX/UI | <img align="center" alt="Design, UX/UI: (Adobe Photoshop, Adobe Illustrator, Figma)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=ai,ps,ae,pr,figma&theme=dark"> |
 <!-- - 📄 [My resume](http://) -->
 
 <hr />
