@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About me
 
-- 🇧🇷 I'm from Brazil. But there's a lot of places i want to place my feet on 🇺🇸🇨🇦🇯🇵🇫🇷🇦🇷.
+- 🇧🇷 I'm from Brazil. But i've been into 🇺🇸 and there are a lot of places i still want to place my feet on 🇨🇦🇯🇵🇫🇷🇦🇷.
 - 🧠 Consistency is power, look where i am, and where i'll be.
 - 🎓 I'm graduated in Systems Analysis and Development at [FATEC](https://www.fatecbt.edu.br/fatec/).
 - 💻 I'm currently as a Full Stack Developer, working with these technologies:
