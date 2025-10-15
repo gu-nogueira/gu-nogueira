@@ -13,8 +13,8 @@
 
 ### 👨‍💻 About me
 
-- 🇧🇷 I'm from Brazil. But i've been into 🇺🇸 and there are a lot of places i still want to place my feet on 🇨🇦🇯🇵🇫🇷🇦🇷.
-- 🧠 Consistency is power, look where i am, and where i'll be.
+- 🇧🇷🇺🇸 I speak portuguese and english as my second dominant lang.
+- 🧠🧱 Consistency is key, one brick at a time builds a castle.
 - 🎓 I'm graduated in Systems Analysis and Development at [FATEC](https://www.fatecbt.edu.br/fatec/).
 - 💻 I'm currently as a Full Stack Developer, working with these technologies:
 
@@ -28,16 +28,16 @@
 | Design, UX/UI | <img align="center" alt="Design, UX/UI: (Adobe Photoshop, Adobe Illustrator, Figma)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=ai,ps,ae,pr,figma&theme=dark"> |
 <!-- - 📄 [My resume](http://) -->
 
-<hr />
+<!-- <hr />
 
-### 📊 Some stats (phew)
+### 📊 For those who like stats
 
 <div align="center">
   <a href="https://github.com/gu-nogueira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gu-nogueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gu-nogueira&layout=compact&langs_count=4&theme=dracula"/>
-</div>
+</div> -->
 
 <hr />
 
-### 👇 Check out my repositories
+### 👇 Check out a small chunk of my work
