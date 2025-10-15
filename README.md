@@ -3,11 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-h-nogueira/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://linktr.ee/gusnogueira)
 [![Behance Badge](https://img.shields.io/badge/-Behance-0057ff?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/gushnogueira)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gushnogueira/)
 [![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gus.h.nogueira@gmail.com)
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/guzango)
-[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-0a0a0a?style=flat-square&logo=Dev.to&logoColor=white)](https://dev.to/gus-nogueira)
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-9146ff?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/gusnogueira) -->
 
 <hr />
 
